@@ -1,6 +1,3 @@
-# OCR
-Implementing Optimal Charcter Recognition
-
 # OCR Image Processing App
 
 This application allows users to upload images, performs OCR to extract words, and generates a report with word count statistics and visual elements.
